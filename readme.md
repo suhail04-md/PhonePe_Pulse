@@ -19,6 +19,3 @@ A complete analytics dashboard inspired by the PhonePe Pulse platform.
 - Custom Shape Map with TopoJSON
 - Tree maps, bar charts, line graphs, KPI cards
 - Top N logic for smart visual focus
-
-## 🚀 Author
-Mudassir | 📧 [shaikmudassir1107@gmail.com] | 🌐 [https://www.linkedin.com/in/shaik-mudassir-5b1107202/]
